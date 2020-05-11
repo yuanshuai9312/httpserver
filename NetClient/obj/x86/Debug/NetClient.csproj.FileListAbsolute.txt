@@ -1,0 +1,50 @@
+E:\Net工程文件\局域网文件传输\NetClient\bin\Debug\NetClient.exe
+E:\Net工程文件\局域网文件传输\NetClient\bin\Debug\NetClient.pdb
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_NetClient_Main.resources
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\NetClient.Properties.Resources.resources
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\NetClient.exe
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\NetClient.pdb
+E:\Net工程文件\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.dll
+E:\Net工程文件\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.pdb
+E:\局域网文件传输\NetClient\obj\x86\Debug\NetClient.exe
+E:\局域网文件传输\NetClient\obj\x86\Debug\NetClient.pdb
+E:\局域网文件传输\NetClient\bin\Debug\NetClient.exe
+E:\局域网文件传输\NetClient\bin\Debug\NetClient.pdb
+E:\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.dll
+E:\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.pdb
+E:\局域网文件传输\NetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_NetClient_Main.resources
+E:\局域网文件传输\NetClient\obj\x86\Debug\NetClient.Properties.Resources.resources
+E:\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\bin\Debug\NetClient.exe
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\bin\Debug\NetClient.pdb
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.dll
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\bin\Debug\NetClassLibrary.pdb
+E:\Net工程文件\局域网文件传输\Bin\NetClient.exe
+E:\Net工程文件\局域网文件传输\Bin\NetClient.pdb
+E:\Net工程文件\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_SendFileConfig.resources
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\Bin\NetClient.exe
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\Bin\NetClient.pdb
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_NetClient_Main.resources
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_SendFileConfig.resources
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.frm_Help.resources
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.exe
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClient\obj\x86\Debug\NetClient.pdb
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\Bin\NetClient.exe
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\Bin\NetClient.pdb
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.csprojResolveAssemblyReference.cache
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.frm_NetClient_Main.resources
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.frm_SendFileConfig.resources
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.frm_Help.resources
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.Properties.Resources.resources
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.csproj.GenerateResource.Cache
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.exe
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClient\obj\x86\Debug\NetClient.pdb

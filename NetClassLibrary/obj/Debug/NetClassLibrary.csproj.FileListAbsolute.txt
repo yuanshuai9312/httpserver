@@ -1,0 +1,21 @@
+E:\Net工程文件\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.dll
+E:\Net工程文件\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.pdb
+E:\Net工程文件\局域网文件传输\NetClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Net工程文件\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.dll
+E:\Net工程文件\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.pdb
+E:\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.dll
+E:\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.pdb
+E:\局域网文件传输\NetClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.dll
+E:\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.dll
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClassLibrary\bin\Debug\NetClassLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\Bin\NetClassLibrary.dll
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\Bin\NetClassLibrary.pdb
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.dll
+C:\Documents and Settings\Administrator\桌面\局域网文件传输\NetClassLibrary\obj\Debug\NetClassLibrary.pdb
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\Bin\NetClassLibrary.dll
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\Bin\NetClassLibrary.pdb
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClassLibrary\obj\Debug\NetClassLibrary.dll
+C:\Users\psuai\Desktop\新建文件夹\局域网文件传输V1.2版源代码\NetClassLibrary\obj\Debug\NetClassLibrary.pdb
